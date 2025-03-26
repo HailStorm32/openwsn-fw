@@ -18,7 +18,7 @@ The sctimer is periodic, of period SCTIMER_PERIOD ticks. Each time it elapses:
 #include "debugpins.h"
 #include "leds.h"
 #include "sctimer.h"
-
+//Adding 
 //=========================== defines =========================================
 
 #define SCTIMER_PERIOD     655 // @32kHz = 1s
