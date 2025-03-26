@@ -6,7 +6,6 @@ settings
 *.exe
 *.ihex
 *.a43
-*.bin
 *.so
 *.a
 *.pyd
